@@ -1,5 +1,11 @@
 # Dataset-Narkotika_493_499
 
+This project is carried out to fulfill the assignemt of the mid-semester exam of Information Retrieval (_Temu Kembali Informasi_).
+The members are including:
+
+- Muhammad Edgardinho Fahrezi Rusly (202110370311493)
+- Fathimatuz Zahra Khoiriyah (202110370311499)
+
 # Legal Court Decision Dataset Repository  
 
 This repository contains resources and data related to legal court decisions made at the **PN Gorontalo** (District Court of Gorontalo) between 2021 and 2024. The dataset exclusively focuses on cases involving **narcotics** and **psychotropic substances** (*narkotika dan psikotropika*). It is intended to support legal research, case study analysis, and document review for academic or professional purposes.  
